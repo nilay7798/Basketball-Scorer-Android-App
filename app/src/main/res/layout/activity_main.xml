@@ -27,7 +27,7 @@
                 android:layout_gravity="center_horizontal"
                 android:text="Team A"
                 android:fontFamily="sans-serif-medium"
-                android:textSize="14sp"
+                android:textSize="18sp"
                 android:textColor="#616161"/>
 
             <TextView
@@ -79,7 +79,7 @@
                 android:layout_gravity="center_horizontal"
                 android:text="Team A"
                 android:fontFamily="sans-serif-medium"
-                android:textSize="14sp"
+                android:textSize="18sp"
                 android:textColor="#616161"/>
 
             <TextView

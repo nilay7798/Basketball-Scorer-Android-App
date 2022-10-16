@@ -6,6 +6,7 @@ import android.view.View;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
+    
     int sa = 0, sb = 0;
 
     @Override
